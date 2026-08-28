@@ -1,31 +1,24 @@
-# Site Settings
-title: Joseph's Data Science Portfolio
-description: A Data Science student @ UNCC
-url: https://SovereignJoseph.github.io/Data-Science-Portfolio
+---
+layout: home
+author_profile: true
+---
 
-# Theme
-remote_theme: "mmistakes/minimal-mistakes@4.28.1"
+## Welcome to my Studio II Portfolio 👋
 
-# Plugins
-plugins:
-  - jekyll-include-cache
+I'm Joseph, and I'm a current Data Science student @ UNCC
 
-# Author Profile (sidebar)
-author:
-  name: Joseph
-  bio: "Data Science student @ UNCC"
-  location: "Charlotte, NC"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/SovereignJoseph"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "www.linkedin.com/in/josephnounagnon"
+I've always been drawn to patterns, the kind of person who'd rather find the signal in a spreadsheet than write the essay about it. Data science is where that instinct turned into a skill set.
+ 
+I truly enjoy the process of working towards getting better at something I find difficult or challenging and looking back to realize my growth. I came up in basketball without a trainer or much organization [...]
 
-# Site Footer
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/SovereignJoseph"
+## Languages I know:
+- Python
+- SQL
+- Java
+
+## Fun Facts:
+🏀 I love basketball. <br>
+🧠 I love strategy games.<br>
+🕵️‍♂️I love mystery shows: <br>
+The Lincoln Lawyer, Manifest, and The Mentalist are my favorites.<br>
+🏆I am the #1 Wardell Stephen Curry II fan!<br>
