@@ -13,7 +13,8 @@ I truly enjoy the process of working towards getting better at something I find 
 
 ## Fun Facts:
 🏀 I love basketball. <br>
-🧠 I love stratregy games.<br>
+🧠 I love strategy games.<br>
 🕵️‍♂️I love mystery shows: <br>
 The Lincoln Lawyer, Manifest, and The Mentalist are my favorites.<br>
 🏆I am the #1 Wardell Stephen Curry II fan!<br>
+
