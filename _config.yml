@@ -13,7 +13,7 @@ plugins:
   - jekyll-include-cache
 
 # Navigation
-navbar:
+navbar_links:
   - title: "Home"
     url: /
   - title: "Projects"
@@ -38,3 +38,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/SovereignJoseph"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/josephnounagnon"
