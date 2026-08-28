@@ -1,0 +1,11 @@
+# Site Settings
+title: Joseph's Data Science Portfolio
+description: A Data Science student @ UNCC showcasing projects and skills
+url: https://SovereignJoseph.github.io/Data-Science-Portfolio
+
+# Theme
+remote_theme: "mmistakes/minimal-mistakes@4.28.1"
+
+# Plugins
+plugins:
+  - jekyll-include-cache
