@@ -10,9 +10,11 @@ header:
 excerpt: "A Data Science student @ UNCC"
 ---
 
-I'm Joseph, and I'm a current Data Science student @ UNCC. I've always been drawn to patterns, the kind of person who'd rather find the signal in a spreadsheet than write the essay about it. Data science is where that instinct turned into a skill set.
+## About Me
 
-I truly enjoy the process of working towards getting better at something I find difficult or challenging and looking back to realize my growth.
+I'm Joseph, a Data Science major at UNC Charlotte graduating in December 2027. I feel drawn towards studying data science because I learn how to properly gather data and do research on a topic to present findings rather than giving opinions or anecdotal evidence. In addition, I gain an exposure to high level statistics which is something that always intrigues me.
+
+At my core I love to compete. In my free time I am always doing something competitively like playing sports such as basketball, football, and soccer as well as competitive video games. Losing bothers me and pushes me to get better at anything I do. That's carried over into how I learn. I've pick up most of my technical skills outside of class, on my own time. I like being bad at something, grinding at it and then looking back and realizing how far I've come.
 
 ## Languages I know:
 
