@@ -10,8 +10,6 @@ header:
       url: "/projects/"
 ---
 
-## About Me
-
 I'm Joseph, a Data Science major at UNC Charlotte graduating in December 2027. I feel drawn toward studying data science because I learn how to properly gather data and do research on a topic to present findings rather than giving opinions or anecdotal evidence. In addition, I gain exposure to high-level statistics, which is something that has always intrigued me.
 
 At my core I love to compete. In my free time I'm always doing something competitively such as playing sports like basketball, football, and soccer, as well as competitive video games. Losing bothers me and pushes me to get better at anything I do. That's carried over into how I learn. I've picked up most of my technical skills outside of class, on my own time. I like being bad at something, grinding at it, and then looking back and realizing how far I've come.
