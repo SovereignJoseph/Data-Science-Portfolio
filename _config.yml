@@ -41,3 +41,6 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/josephnounagnon"
+    - label: "Resume"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "https://github.com/SovereignJoseph/Data-Science-Portfolio/raw/main/Joseph%20Nounagnon%20Resume.pdf"
