@@ -4,13 +4,11 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/header-background.jpg
+  excerpt: "Welcome! I'm Joseph, a Data Science major at UNC Charlotte. I'm passionate about uncovering insights from data and continuously improving my skills."
   actions:
     - label: "View My Projects"
       url: "/projects/"
-excerpt: "A Data Science student @ UNCC"
 ---
-
-## About Me
 
 I'm Joseph, a Data Science major at UNC Charlotte graduating in December 2027. I feel drawn towards studying data science because I learn how to properly gather data and do research on a topic to present findings rather than giving opinions or anecdotal evidence. In addition, I gain an exposure to high level statistics which is something that always intrigues me.
 
