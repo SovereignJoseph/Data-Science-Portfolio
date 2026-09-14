@@ -6,10 +6,10 @@ permalink: /projects/
 
 # Data Science Projects
 
-## Project 1: [Your Project Name]
-- **Description:** Brief description of what this project does
-- **Technologies:** Python, SQL, Pandas
-- **[View on GitHub](link-to-repo)**
+## Project 1: NFL-vs-Turf-Injury-Risk-EDA
+- **Description:** Exploratory Data Analysis examining the relationship between NFL playing surface types and injury risk
+- **Technologies:** Python, Jupyter Notebooks, Pandas, Matplotlib, NumPy
+- **[View on GitHub](https://github.com/SovereignJoseph/NFL-vs-Turf-Injury-Risk-EDA)**
 
 ## Project 2: [Your Project Name]
 - **Description:** Brief description
