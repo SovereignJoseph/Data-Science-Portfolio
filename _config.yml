@@ -12,13 +12,6 @@ minimal_mistakes_skin: "default"
 plugins:
   - jekyll-include-cache
 
-# Navigation
-navbar_links:
-  - title: "Home"
-    url: /
-  - title: "Projects"
-    url: /projects/
-
 # Author Profile (sidebar)
 author:
   name: Joseph
@@ -32,15 +25,14 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/josephnounagnon"
 
-# Site Footer
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/SovereignJoseph"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/josephnounagnon"
-    - label: "Resume"
-      icon: "fas fa-fw fa-file-pdf"
-      url: "https://github.com/SovereignJoseph/Data-Science-Portfolio/raw/main/Joseph%20Nounagnon%20Resume.pdf"
+# Footer
+footer_links:
+  - label: "GitHub"
+    icon: "fab fa-fw fa-github"
+    url: "https://github.com/SovereignJoseph"
+  - label: "LinkedIn"
+    icon: "fab fa-fw fa-linkedin"
+    url: "https://www.linkedin.com/in/josephnounagnon"
+  - label: "Resume"
+    icon: "fas fa-fw fa-file-pdf"
+    url: "https://github.com/SovereignJoseph/Data-Science-Portfolio/raw/main/Joseph%20Nounagnon%20Resume.pdf"
